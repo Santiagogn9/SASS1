@@ -1,0 +1,14 @@
+header{
+    background-color: aqua;
+    nav{
+        text-align: center;
+        a{
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            &:hover{
+                color: blueviolet;
+            }
+        }
+    }
+    
+
+}
